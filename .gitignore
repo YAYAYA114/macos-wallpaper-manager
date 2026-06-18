@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager 编译产物 / 本地构建输出(体积大,不入库)
+.build/
+build/
+.swiftpm/
+
+# Xcode
+*.xcodeproj
+xcuserdata/
+DerivedData/
